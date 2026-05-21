@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Don't Shy
+
+This log tracks the cryptographic history and versioning for the song **Don't Shy** (dont-shy).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-22T00:52:17.884376 | `v1` | `5abc59bb67980800f2b88495ae259db6da7006f0d0c3ff6362eb6d809b4da66c` | `cb2b502af4c1276b88712ed387327419adaf29437705b784c63639841927db7c` | `2026-05-22_dont-shy-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
