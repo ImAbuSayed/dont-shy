@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dont-shy/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Don't Shy](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dont-shy/) |
+| **Get License** | [Music Rights & Licensing for Don't Shy](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dont-shy/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Teri tikhi jehi takni mainu lutt di my queen
+> Main taan tere piche aavan chhad saara scene
+> Mera dil eh bekabu hunda jaanda feel the heat
+> Tu hi ban gayi ae meri zindgi heartbeat
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
